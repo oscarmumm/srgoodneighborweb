@@ -1,0 +1,8 @@
+color verde usado originalmente:
+color: #12EF15;
+
+gradiente de fondo usado originalmente en el body:
+background: fixed linear-gradient(#000000, #0c1f0c, #000000);
+
+gradiente de la LINEA ANIMADA:
+background: linear-gradient(rgba(0, 0, 0, 0) 20%, #147716);
